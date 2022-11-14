@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/t/static/css/main.6c6ada35.css",
-    "main.js": "/t/static/js/main.a5e61d8b.js",
+    "main.css": "/t/static/css/main.634f9fb7.css",
+    "main.js": "/t/static/js/main.0bfcf3c3.js",
     "index.html": "/t/index.html",
-    "static/media/delete_icon.svg": "/t/static/media/delete_icon.660986d9c877a2f09411c76953942762.svg",
     "static/media/export.svg": "/t/static/media/export.af88b09248ae43abac3fc3e226b2c4e9.svg",
     "static/media/import.svg": "/t/static/media/import.df051589c394596980ce0a434eb3cd91.svg",
     "static/media/copy.svg": "/t/static/media/copy.b98abf15734adc2c46682e3b6c995003.svg",
     "static/media/append.svg": "/t/static/media/append.311e1a88036bbf36b27949bdca6cea37.svg",
     "static/media/cleanup.svg": "/t/static/media/cleanup.bde675c38d54979f589e6b290bea398a.svg",
-    "main.6c6ada35.css.map": "/t/static/css/main.6c6ada35.css.map",
-    "main.a5e61d8b.js.map": "/t/static/js/main.a5e61d8b.js.map"
+    "main.634f9fb7.css.map": "/t/static/css/main.634f9fb7.css.map",
+    "main.0bfcf3c3.js.map": "/t/static/js/main.0bfcf3c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c6ada35.css",
-    "static/js/main.a5e61d8b.js"
+    "static/css/main.634f9fb7.css",
+    "static/js/main.0bfcf3c3.js"
   ]
 }
